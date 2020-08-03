@@ -9,13 +9,13 @@ Página oficial de R <https://www.r-project.org>
 Links para descargar el software base en los repectivos sistemas operativos 
 
 Windows
-<https://cran.itam.mx>
+<https://cran.itam.mx/bin/windows/base>
 
 Mac
-<https://cran.itam.mx>
+<https://cran.itam.mx/bin/macosx>
 
 Linux
-<https://cran.itam.mx>
+<https://cran.itam.mx/bin/linux/>
 
 ## Interfaces de R
 RStudio es un entorno de desarrollo integrado (IDE) para el lenguaje de programación R. 
