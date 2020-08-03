@@ -7,6 +7,7 @@ Página oficial de R <https://www.r-project.org>
 
 ## Instalación de R
 Links para descargar el software base en los repectivos sistemas operativos 
+
 Windows
 <https://cran.itam.mx>
 
